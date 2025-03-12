@@ -25,7 +25,7 @@ const Contact = () => {
                         idx={15}
                     />
                 </h1>
-                <p>
+                <p className="contact-method">
                     Email: wanqichen0924@gmail.com
                 </p>
                 
